@@ -1,0 +1,16 @@
+langchain
+chromadb
+openai
+tiktoken
+python-dotenv
+fastapi
+uvicorn
+pydantic
+langchain-openai
+langchain-chroma
+langchain-core
+langchain-community
+supabase
+python-dotenv
+langgraph
+pypdf
