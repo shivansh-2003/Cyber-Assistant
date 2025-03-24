@@ -14,3 +14,6 @@ supabase
 python-dotenv
 langgraph
 pypdf
+pdf2image
+pytesseract
+Pillow
